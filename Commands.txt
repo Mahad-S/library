@@ -1,0 +1,5 @@
+mvn clean  : tar bort gamla byggfiler i target/
+mvn compile : kompilerar alla Java-filer i src/main/java
+mvn test :  kör alla testklasser i src/test/java
+mvn javadoc:javadoc : skapar Javadoc under target/site/apidocs
+mvn package : paketerar projektet till en JAR-fil

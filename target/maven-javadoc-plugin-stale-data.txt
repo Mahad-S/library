@@ -1,0 +1,51 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/mahad/IdeaProjects/library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/mahad/IdeaProjects/library/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'library 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'library 1.0-SNAPSHOT API'
+model
+ui
+utilities
+C:\Users\mahad\IdeaProjects\library\src\main\java = 1763818294280
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\allclasses-index.html = 1763821299147
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\allpackages-index.html = 1763821299153
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\copy.svg = 1763821299240
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\element-list = 1763821298854
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\help-doc.html = 1763821299227
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\index-all.html = 1763821299205
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\index.html = 1763821299106
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\link.svg = 1763821299244
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\member-search-index.js = 1763821299168
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\module-search-index.js = 1763821299157
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\overview-summary.html = 1763821299218
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\overview-tree.html = 1763821299099
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\package-search-index.js = 1763821299160
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\script.js = 1763821299237
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\search-page.js = 1763821299256
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\search.html = 1763821299211
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\search.js = 1763821299252
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\serialized-form.html = 1763821298950
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\stylesheet.css = 1763821299233
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\tag-search-index.js = 1763821299172
+C:\Users\mahad\IdeaProjects\library\target\reports\apidocs\type-search-index.js = 1763821299163
